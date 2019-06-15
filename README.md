@@ -18,3 +18,7 @@ A Pokémon Fan-game.
 ### Following Pokémon - by mej71
 * Your Pokémon will follow you in outside of Pokéball.
 * Source: https://www.pokecommunity.com/showthread.php?t=360846
+
+### Unreal Time System - by FL
+* A time system like Harvest Moon games.
+* Source: https://www.pokecommunity.com/showthread.php?t=285831
