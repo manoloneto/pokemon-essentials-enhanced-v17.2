@@ -14,3 +14,7 @@ A Pokémon Fan-game.
 ### Evolution During Battle - by Vendily
 * Force evolution of Pokémon in battle.
 * Source: https://www.pokecommunity.com/showthread.php?t=398249
+
+### Following Pokémon - by mej71
+* Your Pokémon will follow you in outside of Pokéball.
+* Source: https://www.pokecommunity.com/showthread.php?t=360846
