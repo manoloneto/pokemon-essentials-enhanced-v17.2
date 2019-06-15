@@ -10,3 +10,7 @@ A Pokémon Fan-game.
 ### Radial Menu Script - by Yankas
 * Change the standard game menu to a ring-shaped one.
 * Source: https://www.pokecommunity.com/showthread.php?t=402835
+
+### Evolution During Battle - by Vendily
+* Force evolution of Pokémon in battle.
+* Source: https://www.pokecommunity.com/showthread.php?t=398249
