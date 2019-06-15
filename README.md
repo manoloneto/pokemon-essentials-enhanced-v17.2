@@ -22,3 +22,7 @@ A Pokémon Fan-game.
 ### Unreal Time System - by FL
 * A time system like Harvest Moon games.
 * Source: https://www.pokecommunity.com/showthread.php?t=285831
+
+### Catch Combo System - by Diego Mertens
+* A combo system like Let's Go games, to shiny hunting.
+* Source: https://www.pokecommunity.com/showthread.php?t=420570
