@@ -34,3 +34,7 @@ A Pokémon Fan-game.
 ### Party screen's Ball - by Lucidious89
 * Add Pokéball grafics on party screen.
 * Source: https://www.pokecommunity.com/showthread.php?t=356862
+
+### Better PokéCenters - by mej71
+* Add Pokéball grafics on healing scene in PokéCenters.
+* Source: https://www.pokecommunity.com/showthread.php?t=360081
