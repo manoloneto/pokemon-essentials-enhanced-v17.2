@@ -26,3 +26,7 @@ A Pokémon Fan-game.
 ### Catch Combo System - by Diego Mertens
 * A combo system like Let's Go games, to shiny hunting.
 * Source: https://www.pokecommunity.com/showthread.php?t=420570
+
+### Change Name from the party - by Diego Mertens and WolfPP
+* An option to change your pokémon name from de party menu.
+* Source: https://www.pokecommunity.com/showthread.php?t=415875
