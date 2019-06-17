@@ -30,3 +30,7 @@ A Pokémon Fan-game.
 ### Change Name from the party - by Diego Mertens and WolfPP
 * An option to change your pokémon name from de party menu.
 * Source: https://www.pokecommunity.com/showthread.php?t=415875
+
+### Party screen's Ball - by Lucidious89
+* Add Pokéball grafics on party screen.
+* Source: https://www.pokecommunity.com/showthread.php?t=356862
