@@ -38,3 +38,7 @@ A Pokémon Fan-game.
 ### Better PokéCenters - by mej71
 * Add Pokéball grafics on healing scene in PokéCenters.
 * Source: https://www.pokecommunity.com/showthread.php?t=360081
+
+### Multiple Protagonists - by NettoHikari
+* Adds up to 8 new characters in the game.
+* Source: https://www.pokecommunity.com/showthread.php?t=417948
