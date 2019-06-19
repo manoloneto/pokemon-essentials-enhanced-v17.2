@@ -42,3 +42,27 @@ A Pokémon Fan-game.
 ### Multiple Protagonists - by NettoHikari
 * Adds up to 8 new characters in the game.
 * Source: https://www.pokecommunity.com/showthread.php?t=417948
+
+### Pokémon Birthsigns - by Lucidious89
+* Adds up to 8 new characters in the game.
+* Source: https://www.pokecommunity.com/showthread.php?t=348599
+
+### Pokémon Birthsigns - by Lucidious89
+* Adds new birthsing system with zodiac powers.
+* Source: https://www.pokecommunity.com/showthread.php?t=348599
+
+### IV Star Ratings - by Lucidious89
+* Show stars in Pokémon Summary on perfect IVs.
+* Source: https://www.pokecommunity.com/showthread.php?p=8957793
+
+### Egg Groups in Summary - by Lucidious89
+* Show egg groups in Pokémon Summary.
+* Source: https://www.pokecommunity.com/showthread.php?p=8957794
+
+### HGSS Shiny Leaf Display - by Lucidious89
+* Adds shiny leafs in Pokémon Summary, but only grafics.
+* Source: https://www.pokecommunity.com/showthread.php?p=8956957
+
+### Family Tree - by FL
+* Adds new screen on summary, to show the Pokémon parents.
+* Source: https://www.pokecommunity.com/showthread.php?p=8511110
