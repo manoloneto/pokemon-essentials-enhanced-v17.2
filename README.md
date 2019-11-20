@@ -44,10 +44,6 @@ A Pokémon Fan-game.
 * Source: https://www.pokecommunity.com/showthread.php?t=417948
 
 ### Pokémon Birthsigns - by Lucidious89
-* Adds up to 8 new characters in the game.
-* Source: https://www.pokecommunity.com/showthread.php?t=348599
-
-### Pokémon Birthsigns - by Lucidious89
 * Adds new birthsing system with zodiac powers.
 * Source: https://www.pokecommunity.com/showthread.php?t=348599
 
@@ -66,3 +62,7 @@ A Pokémon Fan-game.
 ### Family Tree - by FL
 * Adds new screen on summary, to show the Pokémon parents.
 * Source: https://www.pokecommunity.com/showthread.php?p=8511110
+
+### Easy Questing System - by Marin
+* Add a quest system and a quest log screen.
+* Source: https://www.pokecommunity.com/showthread.php?t=391062
