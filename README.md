@@ -66,3 +66,7 @@ A Pokémon Fan-game.
 ### Easy Questing System - by Marin
 * Add a quest system and a quest log screen.
 * Source: https://www.pokecommunity.com/showthread.php?t=391062
+
+### Nature Mints - by GT-Baka
+* Add mints to change the Pokémon nature.
+* Source: https://www.pokecommunity.com/showthread.php?t=426125
