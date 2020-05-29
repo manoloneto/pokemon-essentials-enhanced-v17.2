@@ -70,3 +70,7 @@ A Pokémon Fan-game.
 ### Nature Mints - by GT-Baka
 * Add mints to change the Pokémon nature.
 * Source: https://www.pokecommunity.com/showthread.php?t=426125
+
+### Wild Encounters Hidden Abilities Chance - by ShadowphilYt
+* Add chance of wild Pokémon has Hidden Abilities.
+* Source: https://www.pokecommunity.com/showthread.php?t=434841
