@@ -78,3 +78,7 @@ A Pokémon Fan-game.
 ### Wild Ditto Disguise - by seth_Angel
 * Add chance of wild Pokémon being a Ditto.
 * Source: https://www.pokecommunity.com/showthread.php?t=434457
+
+### Phenomenon - by Boonzeet
+* Add random events that let you snag good rare Pokémon.
+* Source: https://www.pokecommunity.com/showthread.php?t=434457
