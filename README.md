@@ -74,3 +74,7 @@ A Pokémon Fan-game.
 ### Wild Encounters Hidden Abilities Chance - by ShadowphilYt
 * Add chance of wild Pokémon has Hidden Abilities.
 * Source: https://www.pokecommunity.com/showthread.php?t=434841
+
+### Wild Ditto Disguise - by seth_Angel
+* Add chance of wild Pokémon being a Ditto.
+* Source: https://www.pokecommunity.com/showthread.php?t=434457
