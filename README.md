@@ -1,5 +1,5 @@
 # Pokémon Essentials Enhanced Edition
-A Pokémon engine to [RPG Maker XP](https://store.steampowered.com/app/235900/RPG_Maker_XP/). You can found all documentation of the vanilla version of Pokémon Essentials in the [Pokémon Essentials Wiki] (https://essentialsdocs.fandom.com/wiki/Essentials_Docs_Wiki).
+A Pokémon engine to [RPG Maker XP](https://store.steampowered.com/app/235900/RPG_Maker_XP/). You can found all documentation of the vanilla version of Pokémon Essentials in the [Pokémon Essentials Wiki](https://essentialsdocs.fandom.com/wiki/Essentials_Docs_Wiki).
 
 ## This is a *DEPRECATED* version, please use the new version 20.1 
 
